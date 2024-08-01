@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag945&label=Profile%20views&color=0e75b6&style=flat" alt="anurag945" /> </p>
 
-- 🌱 I’m currently learning **Web DEV,JAVA,**
+- 🌱 I’m currently learning **Web DEV,JAVA,GCP**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anurag-sinha945/](https://www.linkedin.com/in/anurag-sinha945/)
 
