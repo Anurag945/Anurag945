@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JAVA,SQL,PYTHON,WEB DEV,C**
 
-- 📫 How to reach me **anurag.direct.contact@gmail.com**
+- 📫 How to reach me **anuragraghavsinha@gmail.com**
 
 - ⚡ Fun fact **3rd-year CSE student with a knack for coding and cracking jokes. When I'm not debugging code, I'm debugging life's little quirks with humor!**
 
